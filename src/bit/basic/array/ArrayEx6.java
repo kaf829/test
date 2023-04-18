@@ -7,6 +7,8 @@ public class ArrayEx6 {
 
 	public boolean empty() {
 
+
+
 		return false;
 	}
 
