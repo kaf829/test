@@ -9,6 +9,10 @@ public class ArrayEx6 {
 
 
 
+
+
+
+
 		return false;
 	}
 
